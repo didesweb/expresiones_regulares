@@ -1,3 +1,10 @@
+/* 
+Didesweb
+http://didesweb.com/
+Diseño y desarrollo web 
+Este obra está bajo licencia Creative Commons Attribution
+*/
+
 <?php 
 mb_internal_encoding('UTF-8');
 mb_http_output('UTF-8');
