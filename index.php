@@ -1,10 +1,8 @@
-/* 
-Didesweb
-http://didesweb.com/
-Diseño y desarrollo web 
-Este obra está bajo licencia Creative Commons Attribution
-*/
 <!DOCTYPE HTML>
+<!-- Didesweb --> 
+<!-- Diseño y desarrollo web --> 
+<!-- http://didesweb.com/--> 
+<!-- Este obra está bajo licencia Creative Commons Attribution -->
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
